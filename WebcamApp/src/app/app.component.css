@@ -1,0 +1,19 @@
+.cardvideo{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    background-color: rgb(136, 102, 43);
+    margin-top: 0.5%;
+}
+
+.cardinfo{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    background-color: rgb(61, 150, 142);
+    margin-top: 0%;
+}
+
+.h4{
+    margin-top: -2%;
+}
